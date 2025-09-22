@@ -1,0 +1,1 @@
+Simple clock implementation with time and date display. Uses built-in Date object and intervals, styled with CSS. No additional dependencies required.
